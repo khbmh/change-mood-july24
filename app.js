@@ -10,7 +10,7 @@ function changeColor(primary, secondary) {
 }
 p.addEventListener("click", () => {
   if (change === 0) {
-    changeColor(`#ff1f11`, `#010001`);
+    changeColor(`#ff1f11`, `#013021`);
     change = 1;
   } else if (change === 1) {
     changeColor(`#331B3F`, `#ACC7B4`);
